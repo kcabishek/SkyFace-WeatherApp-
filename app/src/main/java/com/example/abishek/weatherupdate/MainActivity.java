@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
     final String URL_BASE = "http://api.openweathermap.org/data/2.5/forecast";
     final String URL_COORD = "?lat=9.9687&lon=76.299";
     final String URL_UNITS = "&units=imperial";
-    final String URL_API_KEY = "&APPID=af24039546e998bc1c5907e0352f3792";
+    final String URL_API_KEY = "&APPID=API_Key";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
